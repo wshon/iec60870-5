@@ -24,7 +24,7 @@ setup(
     long_description=long_description,
     url='https://github.com/muumlover/iec60870-5',
     download_url='https://github.com/muumlover/iec60870-5/tarball/' + __version__,
-    license='BSD',
+    license='MIT',
     classifiers=[
       'Development Status :: 3 - Alpha',
       'Intended Audience :: Developers',
