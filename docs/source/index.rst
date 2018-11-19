@@ -1,4 +1,4 @@
-Welcome to ICE60870-5's documentation!
+Welcome to IEC60870-5's documentation!
 =========================================
 
 Contents:

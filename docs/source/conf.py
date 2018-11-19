@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# ICE60870-5 documentation build configuration file, created by
+# IEC60870-5 documentation build configuration file, created by
 # cookiecutter pipproject
 #
 # This file is execfile()d with the current directory set to its
@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'ICE60870-5'
+project = 'IEC60870-5'
 copyright = '2016, MUUMLOVER'
 author = 'MUUMLOVER'
 
@@ -123,7 +123,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
-#html_title = 'ICE60870-5 v0.0.1'
+#html_title = 'IEC60870-5 v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -205,7 +205,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ICE60870-5doc'
+htmlhelp_basename = 'IEC60870-5doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -227,7 +227,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'ICE60870-5.tex', 'ICE60870-5 Documentation',
+    (master_doc, 'IEC60870-5.tex', 'IEC60870-5 Documentation',
      'MUUMLOVER', 'manual'),
 ]
 
@@ -257,7 +257,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'ICE60870-5', 'ICE60870-5 Documentation',
+    (master_doc, 'IEC60870-5', 'IEC60870-5 Documentation',
      [author], 1)
 ]
 
@@ -271,8 +271,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ICE60870-5', 'ICE60870-5 Documentation',
-     author, 'ICE60870-5', 'One line description of project.',
+    (master_doc, 'IEC60870-5', 'IEC60870-5 Documentation',
+     author, 'IEC60870-5', 'One line description of project.',
      'Miscellaneous'),
 ]
 
